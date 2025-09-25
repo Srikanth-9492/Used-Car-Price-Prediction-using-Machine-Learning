@@ -21,7 +21,7 @@ Programming Language: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Machine Learning: Random Forest Regressor, Regression Analysis
+Machine Learning: Random Forest Regressor, Regression Analysis, Gradient Boosting Regressor
 
 Deployment: Streamlit
 
